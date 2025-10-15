@@ -1,0 +1,1044 @@
+[
+  {
+    "instruction": "What is the Forest Rights Act (FRA), 2006?",
+    "input": "",
+    "output": "The FRA, 2006 is a law recognizing rights of Scheduled Tribes and other traditional forest dwellers over forest land and resources. It ensures secure land tenure, livelihood, and protection from eviction."
+  },
+  {
+    "instruction": "Who benefits from FRA?",
+    "input": "",
+    "output": "Scheduled Tribes and Other Traditional Forest Dwellers (OTFD) who depend on forests for livelihood are beneficiaries. They must show occupation before 13th December 2005."
+  },
+  {
+    "instruction": "Explain Section 3(1)(a) of FRA.",
+    "input": "",
+    "output": "Section 3(1)(a) grants rights to hold and live in forest land under individual or common occupation for habitation or self-cultivation. The land cannot exceed 4 hectares."
+  },
+  {
+    "instruction": "Explain Section 3(1)(b).",
+    "input": "",
+    "output": "Section 3(1)(b) gives community rights over forest land, including grazing areas, water bodies, and traditional seasonal access to resources."
+  },
+  {
+    "instruction": "Explain Section 3(1)(c).",
+    "input": "",
+    "output": "This clause grants ownership of Minor Forest Produce (MFP) such as bamboo, tendu, honey, fruits, and medicinal plants. Tribals can collect, use, and sell these freely."
+  },
+  {
+    "instruction": "Explain Section 3(1)(d).",
+    "input": "",
+    "output": "Section 3(1)(d) provides rights of forest dwellers to use traditional grazing grounds and access water resources for their cattle and livelihood."
+  },
+  {
+    "instruction": "Explain Section 3(1)(e).",
+    "input": "",
+    "output": "This clause recognizes rights to fish and access water bodies traditionally used by forest dwellers for their livelihood."
+  },
+  {
+    "instruction": "Explain Section 3(1)(f).",
+    "input": "",
+    "output": "Section 3(1)(f) gives rights to habitat for Particularly Vulnerable Tribal Groups (PVTGs) and pre-agricultural communities, protecting their culture and lifestyle."
+  },
+  {
+    "instruction": "Explain Section 3(1)(g).",
+    "input": "",
+    "output": "This clause grants rights for settlement and conversion of all forest villages, unrecorded settlements, and old habitations into revenue villages."
+  },
+  {
+    "instruction": "Explain Section 3(1)(h).",
+    "input": "",
+    "output": "Section 3(1)(h) recognizes rights to convert pattas or leases issued by government for forest land into secure land titles."
+  },
+  {
+    "instruction": "Explain Section 3(1)(i).",
+    "input": "",
+    "output": "Section 3(1)(i) empowers communities to protect, regenerate, and manage forests for sustainable use and biodiversity conservation."
+  },
+  {
+    "instruction": "Explain Section 3(1)(j).",
+    "input": "",
+    "output": "This clause provides rights to access biodiversity, knowledge, and intellectual property linked to traditional forest resources."
+  },
+  {
+    "instruction": "Explain Section 3(1)(k).",
+    "input": "",
+    "output": "Section 3(1)(k) gives rights to claim land for rehabilitation in case of illegal displacement from forests without proper resettlement."
+  },
+  {
+    "instruction": "Explain Section 3(1)(l).",
+    "input": "",
+    "output": "This clause provides rights to land for rehabilitation of displaced persons due to development projects such as dams or mines."
+  },
+  {
+    "instruction": "Explain Section 3(1)(m).",
+    "input": "",
+    "output": "Section 3(1)(m) gives rights to access traditional seasonal resources like shifting cultivation and nomadic routes."
+  },
+  {
+    "instruction": "What is Section 4(5) of FRA?",
+    "input": "",
+    "output": "Section 4(5) protects tribals from eviction. No forest dweller can be removed until their FRA claim is recognized and settled."
+  },
+  {
+    "instruction": "What is Section 5 of FRA?",
+    "input": "",
+    "output": "Section 5 empowers Gram Sabhas to conserve wildlife, biodiversity, and forests, ensuring sustainable use of resources."
+  },
+  {
+    "instruction": "Explain Section 6 process of FRA.",
+    "input": "",
+    "output": "Section 6 describes the claims process: Gram Sabha receives and verifies claims, SDLC examines them, and DLC issues titles."
+  },
+  {
+    "instruction": "What is the role of Gram Sabha?",
+    "input": "",
+    "output": "The Gram Sabha accepts, verifies, and approves FRA claims. It is the grassroots authority to ensure fair recognition of rights."
+  },
+  {
+    "instruction": "What is the role of SDLC?",
+    "input": "",
+    "output": "The Sub-Divisional Level Committee reviews Gram Sabha recommendations, ensures proper documentation, and forwards claims to DLC."
+  },
+  {
+    "instruction": "What is the role of DLC?",
+    "input": "",
+    "output": "The District Level Committee is the final authority. It approves or rejects claims and issues titles to beneficiaries."
+  },
+  {
+    "instruction": "Do women get rights under FRA?",
+    "input": "",
+    "output": "Yes. FRA mandates that land titles must be issued jointly in the name of both husband and wife, ensuring women’s ownership rights."
+  },
+  {
+    "instruction": "What are individual rights under FRA?",
+    "input": "",
+    "output": "Individual rights allow families to live and cultivate on forest land they occupied before 2005. Land up to 4 hectares can be recognized."
+  },
+  {
+    "instruction": "What are community rights under FRA?",
+    "input": "",
+    "output": "Community rights provide villages with collective access to forests, grazing areas, water sources, and minor forest produce."
+  },
+  {
+    "instruction": "Can FRA land be sold?",
+    "input": "",
+    "output": "No. FRA land cannot be sold, transferred, or mortgaged. It is inheritable within the family."
+  },
+  {
+    "instruction": "What is Minor Forest Produce (MFP)?",
+    "input": "",
+    "output": "MFP includes non-timber items like bamboo, tendu leaves, fruits, seeds, honey, and medicinal herbs. FRA gives ownership rights to tribals over MFP."
+  },
+  {
+    "instruction": "Can Gram Sabha stop outsiders from cutting forest?",
+    "input": "",
+    "output": "Yes. Under Section 5, Gram Sabha has the power to prevent destructive activities like illegal tree cutting or mining."
+  },
+  {
+    "instruction": "What documents can prove FRA claim?",
+    "input": "",
+    "output": "Evidence may include forest department records, ration cards, electoral rolls, satellite images, or oral testimonies verified by Gram Sabha."
+  },
+  {
+    "instruction": "How are claims filed under FRA?",
+    "input": "",
+    "output": "Claims are filed at the Gram Sabha with necessary documents. After verification, they are forwarded to SDLC and then DLC for final approval."
+  },
+  {
+    "instruction": "Does FRA cover displaced people?",
+    "input": "",
+    "output": "Yes. Sections 3(1)(k) and 3(1)(l) provide rights for rehabilitation of people displaced from forests due to development or illegal eviction."
+  },
+  {
+    "instruction": "What are habitat rights?",
+    "input": "",
+    "output": "Habitat rights under Section 3(1)(f) ensure PVTGs and nomadic tribes can preserve their culture, lifestyle, and traditional practices."
+  },
+  {
+    "instruction": "Does FRA protect against mining projects?",
+    "input": "",
+    "output": "Yes. Gram Sabha consent is mandatory before forest land can be diverted for mining or development projects."
+  },
+  {
+    "instruction": "How does FRA empower women?",
+    "input": "",
+    "output": "FRA ensures joint titles for women, recognizes their role in managing minor forest produce, and gives them equal say in Gram Sabha decisions."
+  },
+  {
+    "instruction": "What is the maximum land a family can get?",
+    "input": "",
+    "output": "Up to 4 hectares of forest land under cultivation before 13th December 2005 can be recognized."
+  },
+  {
+    "instruction": "Can claims be rejected?",
+    "input": "",
+    "output": "Yes. If evidence is insufficient or land was occupied after 13th December 2005, claims may be rejected. Appeals can be filed with DLC."
+  },
+  {
+    "instruction": "Can forest villages become revenue villages?",
+    "input": "",
+    "output": "Yes. Section 3(1)(g) allows conversion of forest villages and old habitations into revenue villages."
+  },
+  {
+    "instruction": "Does FRA give rights to bamboo?",
+    "input": "",
+    "output": "Yes. Bamboo is classified as Minor Forest Produce, and tribals have full ownership rights under Section 3(1)(c)."
+  },
+  {
+    "instruction": "Who issues land titles under FRA?",
+    "input": "",
+    "output": "The District Level Committee (DLC) is the final authority to issue titles (pattas) after verifying claims."
+  },
+  {
+    "instruction": "What is the primary document required for an FRA claim?",
+    "input": "",
+    "output": "The Gram Sabha resolution is the primary document, as it validates your claim under the Forest Rights Act. It is issued after the Gram Sabha verifies residence, cultivation, and forest use."
+  },
+  {
+    "instruction": "Which certificate proves Scheduled Tribe status?",
+    "input": "",
+    "output": "A valid Caste Certificate issued by the SDM/Tehsildar confirms your Scheduled Tribe (ST) status, which is mandatory for FRA eligibility."
+  },
+  {
+    "instruction": "Which document proves I am an Other Traditional Forest Dweller (OTFD)?",
+    "input": "",
+    "output": "Proof of continuous residence in forest land for at least three generations (75 years) is required. Documents may include ration cards, voter ID, land tax receipts, or any government-issued record."
+  },
+  {
+    "instruction": "Is an Aadhaar card sufficient for FRA claims?",
+    "input": "",
+    "output": "No, Aadhaar card only establishes identity. Supporting documents like Gram Sabha resolution, caste certificate, or proof of forest residence are mandatory."
+  },
+  {
+    "instruction": "Which documents prove forest land residence?",
+    "input": "",
+    "output": "Ration cards, voter IDs, electricity bills, village revenue records, and school records showing your residence in forest areas can be submitted."
+  },
+  {
+    "instruction": "Are land ownership documents required to claim FRA rights?",
+    "input": "",
+    "output": "No. FRA recognizes rights based on occupation and use of forest land before 13th December 2005, not formal ownership."
+  },
+  {
+    "instruction": "Who issues the Gram Sabha resolution?",
+    "input": "",
+    "output": "The Gram Sabha issues the resolution after verifying claims and evidence. It is then forwarded to the SDLC."
+  },
+  {
+    "instruction": "What proves cultivation on forest land?",
+    "input": "",
+    "output": "Crop records, satellite imagery, forest department records, and testimonies from Gram Sabha elders can prove cultivation."
+  },
+  {
+    "instruction": "Are school admission records valid?",
+    "input": "",
+    "output": "Yes, school admission registers showing the student’s forest village can support residence claims."
+  },
+  {
+    "instruction": "Which documents prove community rights?",
+    "input": "",
+    "output": "Gram Sabha resolutions, maps showing communal forest use, grazing records, forest produce collection receipts, and community elder testimonies."
+  },
+  {
+    "instruction": "Is a ration card valid as proof of residence?",
+    "input": "",
+    "output": "Yes. A ration card listing the forest village address can serve as proof of residence for FRA claims."
+  },
+  {
+    "instruction": "Can electricity bills be submitted for FRA claims?",
+    "input": "",
+    "output": "Yes. Electricity bills showing residence in forest areas can support your claim."
+  },
+  {
+    "instruction": "What document proves collection of minor forest produce (MFP)?",
+    "input": "",
+    "output": "Receipts of MFP collection, sales records, or Gram Sabha certification that you have traditionally collected forest produce."
+  },
+  {
+    "instruction": "Which documents prove rights to grazing land?",
+    "input": "",
+    "output": "Community maps, Gram Sabha resolutions, and historical grazing records can establish rights to pastures."
+  },
+  {
+    "instruction": "Can affidavits be used for FRA claims?",
+    "input": "",
+    "output": "Yes. Affidavits from the claimant or witnesses can support claims if other documents are missing."
+  },
+  {
+    "instruction": "Is a village revenue record useful?",
+    "input": "",
+    "output": "Yes. Village revenue or land records showing family habitation or cultivation in the forest area are valid."
+  },
+  {
+    "instruction": "Do caste certificates have expiry?",
+    "input": "",
+    "output": "No, caste certificates are generally permanent. Ensure it is issued by the competent authority."
+  },
+  {
+    "instruction": "Can old eviction notices be used as proof?",
+    "input": "",
+    "output": "Yes, old eviction notices or rehabilitation documents can support claims and establish historical residence."
+  },
+  {
+    "instruction": "Which document shows eligibility for PVTG habitat rights?",
+    "input": "",
+    "output": "Government issued PVTG identification certificate and Gram Sabha resolution recognizing their traditional habitat."
+  },
+  {
+    "instruction": "Is a PAN card accepted for FRA claims?",
+    "input": "",
+    "output": "No, PAN card alone is not sufficient. It may serve as identity proof, but eligibility must be proven with residence or caste certificates."
+  },
+  {
+    "instruction": "Can forest department letters be submitted?",
+    "input": "",
+    "output": "Yes. Official letters or notices from the forest department acknowledging your residence or forest use are valid documents."
+  },
+  {
+    "instruction": "Do electoral rolls help in FRA claims?",
+    "input": "",
+    "output": "Yes. Voter ID and electoral rolls showing your forest address can serve as proof of residence."
+  },
+  {
+    "instruction": "Which documents prove rehabilitation rights?",
+    "input": "",
+    "output": "Government rehabilitation orders, eviction notices, and Gram Sabha resolution approving rehabilitation can be submitted."
+  },
+  {
+    "instruction": "Can tenancy agreements help?",
+    "input": "",
+    "output": "Yes. Historical tenancy agreements showing long-term occupation in forest areas can support FRA claims."
+  },
+  {
+    "instruction": "Are photographs of houses valid proof?",
+    "input": "",
+    "output": "Yes, dated photographs showing habitation before 13th December 2005 may support residence claims."
+  },
+  {
+    "instruction": "Can caste and residence proofs be combined?",
+    "input": "",
+    "output": "Yes, combining a caste certificate with residence proof strengthens the claim and ensures eligibility."
+  },
+  {
+    "instruction": "Can forest maps be submitted?",
+    "input": "",
+    "output": "Yes. Old forest maps or community maps showing traditional use of the land help establish rights."
+  },
+  {
+    "instruction": "Is an employer certificate valid?",
+    "input": "",
+    "output": "Yes, if you worked in forest areas and it proves long-term presence, it can support your claim."
+  },
+  {
+    "instruction": "Which documents prove seasonal resource use?",
+    "input": "",
+    "output": "Testimonies, Gram Sabha resolutions, and historical records showing seasonal harvesting or shifting cultivation."
+  },
+  {
+    "instruction": "Are affidavits from neighbors acceptable?",
+    "input": "",
+    "output": "Yes, affidavits from community members or neighbors can verify your residence and occupation."
+  },
+  {
+    "instruction": "Can medical records prove residence?",
+    "input": "",
+    "output": "Yes. Medical records showing treatment in forest area hospitals can support claims."
+  },
+  {
+    "instruction": "Is a bank statement useful?",
+    "input": "",
+    "output": "Bank statements with address in forest area may serve as supplementary proof of residence."
+  },
+  {
+    "instruction": "Can letters from school headmasters help?",
+    "input": "",
+    "output": "Yes, letters from school authorities confirming attendance of children in forest area schools can prove residence."
+  },
+  {
+    "instruction": "Do old ration shop records help?",
+    "input": "",
+    "output": "Yes, old ration shop registers showing family registration can be used to prove residence before 2005."
+  },
+  {
+    "instruction": "Can land tax receipts be submitted?",
+    "input": "",
+    "output": "Yes, any receipts showing forest land cultivation or payment of land taxes support FRA claims."
+  },
+  {
+    "instruction": "Are letters from Panchayat officials valid?",
+    "input": "",
+    "output": "Yes. Letters confirming family habitation or forest resource use issued by Panchayat officials are valid."
+  },
+  {
+    "instruction": "Can community elders’ statements be used?",
+    "input": "",
+    "output": "Yes, statements from Gram Sabha elders or community leaders verifying residence or use of forest resources are valid."
+  }
+, {
+    "instruction": "How can Vanadhikar AI help in digitalizing FRA documents?",
+    "input": "",
+    "output": "Vanadhikar AI uses OCR technology to scan and extract text from FRA claim documents, Gram Sabha resolutions, and certificates, converting them into a digital format for easy processing."
+  },
+  {
+    "instruction": "Can Vanadhikar AI extract text from handwritten FRA forms?",
+    "input": "",
+    "output": "Yes. The AI uses OCR optimized for handwritten documents to extract information from claim forms, affidavits, and other handwritten submissions."
+  },
+  {
+    "instruction": "How to submit scanned FRA documents for Vanadhikar AI?",
+    "input": "",
+    "output": "Users can upload scanned PDFs or images through the app. Vanadhikar AI will process the files using OCR and populate the relevant fields in the digital database."
+  },
+  {
+    "instruction": "What is IFR in the context of forest rights?",
+    "input": "",
+    "output": "IFR stands for Individual Forest Rights, which provides forest land and resource rights to individual families or persons for habitation and cultivation."
+  },
+  {
+    "instruction": "What is CFR?",
+    "input": "",
+    "output": "CFR stands for Community Forest Rights. It gives forest-dwelling communities collective rights over forest land, grazing grounds, water bodies, and minor forest produce."
+  },
+  {
+    "instruction": "What is CR?",
+    "input": "",
+    "output": "CR stands for Community Rights, often used interchangeably with CFR, referring to collective entitlements like grazing, water access, and forest resource management."
+  },
+  {
+    "instruction": "Can Vanadhikar AI guide me in filling FRA claim forms?",
+    "input": "",
+    "output": "Yes. The AI provides step-by-step guidance on filling forms, including individual, community, and rehabilitation claims, ensuring all necessary documents are attached."
+  },
+  {
+    "instruction": "How can Vanadhikar AI verify documents?",
+    "input": "",
+    "output": "Using OCR and AI validation, Vanadhikar AI cross-checks document data against official requirements, highlighting missing information or inconsistencies."
+  },
+  {
+    "instruction": "Can I submit a feedback form to NGOs through Vanadhikar AI?",
+    "input": "",
+    "output": "Yes. Vanadhikar AI allows users to fill feedback forms, which are then shared with partner NGOs for follow-up and assistance."
+  },
+  {
+    "instruction": "How does Vanadhikar AI help coordinate with NGOs?",
+    "input": "",
+    "output": "The AI connects users with local NGOs, sharing verified claim information, feedback forms, and follow-up actions to ensure efficient support for forest rights claims."
+  },
+  {
+    "instruction": "Can Vanadhikar AI map forest land using GeoAtlas?",
+    "input": "",
+    "output": "Yes. The AI integrates with GeoAtlas mapping tools to plot land claims, identify community areas, and visualize rights distribution across forest regions."
+  },
+  {
+    "instruction": "How does GeoAtlas mapping help in FRA claims?",
+    "input": "",
+    "output": "GeoAtlas provides a visual representation of forest land, demarcating individual and community claims, which helps Gram Sabhas and DLCs in verifying and approving claims."
+  },
+  {
+    "instruction": "Can Vanadhikar AI detect missing documents in digital claims?",
+    "input": "",
+    "output": "Yes. The AI checks scanned documents for completeness, verifying if key attachments like caste certificates, Gram Sabha resolutions, or proof of residence are missing."
+  },
+  {
+    "instruction": "Does Vanadhikar AI provide multilingual support for form filling?",
+    "input": "",
+    "output": "Yes. It supports multiple local languages so tribals can fill forms, submit documents, and interact with NGOs comfortably."
+  },
+  {
+    "instruction": "Can Vanadhikar AI extract data from PDFs and images automatically?",
+    "input": "",
+    "output": "Yes. It uses OCR to read scanned PDFs, images, and handwritten forms, automatically populating the digital FRA database."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate reports from OCR data?",
+    "input": "",
+    "output": "Yes. Once documents are digitized, it can generate reports showing claim status, missing documents, and compliance with FRA requirements."
+  },
+  {
+    "instruction": "Can I track my FRA claim status with Vanadhikar AI?",
+    "input": "",
+    "output": "Yes. The AI maintains a digital record of each claim, tracking progress through Gram Sabha, SDLC, and DLC stages."
+  },
+  {
+    "instruction": "Does Vanadhikar AI suggest corrective actions for incomplete forms?",
+    "input": "",
+    "output": "Yes. It highlights missing fields, invalid documents, and guides users on how to complete forms correctly."
+  },
+  {
+    "instruction": "Can Vanadhikar AI assist with multiple family members’ claims?",
+    "input": "",
+    "output": "Yes. The AI allows bulk claim entry and document digitization for all family members, ensuring each claim is processed individually."
+  },
+  {
+    "instruction": "Does Vanadhikar AI validate individual vs community claims?",
+    "input": "",
+    "output": "Yes. The system differentiates IFR and CFR claims, ensuring each type meets specific requirements before submission."
+  },
+  {
+    "instruction": "Can Vanadhikar AI identify overlapping claims?",
+    "input": "",
+    "output": "Yes. GeoAtlas integration helps detect overlapping claims, preventing disputes and ensuring fair allocation of forest rights."
+  },
+  {
+    "instruction": "Can Vanadhikar AI digitize old handwritten FRA documents?",
+    "input": "",
+    "output": "Yes. The OCR engine is optimized to read handwritten notes, old resolutions, and letters from village elders."
+  },
+  {
+    "instruction": "How does Vanadhikar AI help NGOs plan outreach?",
+    "input": "",
+    "output": "By analyzing claim data, document status, and geographical mapping, the AI identifies areas needing NGO support for awareness or verification."
+  },
+  {
+    "instruction": "Can Vanadhikar AI fill feedback forms automatically from OCR data?",
+    "input": "",
+    "output": "Yes. Extracted information like claimant name, village, and claim type can auto-populate NGO feedback forms, reducing manual entry."
+  },
+  {
+    "instruction": "Can Vanadhikar AI suggest missing IFR/CR/CFR documents?",
+    "input": "",
+    "output": "Yes. It cross-checks submitted documents against FRA requirements and suggests what’s missing for each type of claim."
+  },
+  {
+    "instruction": "Can Vanadhikar AI map seasonal resource areas for communities?",
+    "input": "",
+    "output": "Yes. Using GeoAtlas, it plots seasonal grazing areas, collection zones for minor forest produce, and forest routes traditionally used."
+  },
+  {
+    "instruction": "Does Vanadhikar AI support mobile uploads of FRA documents?",
+    "input": "",
+    "output": "Yes. Users can capture images via mobile, and the AI processes them with OCR for instant digitization and claim verification."
+  },
+  {
+    "instruction": "Can Vanadhikar AI coordinate between multiple NGOs for one claim?",
+    "input": "",
+    "output": "Yes. It shares verified claim data and status with all relevant NGOs to ensure coordinated follow-up and support."
+  },
+  {
+    "instruction": "Can Vanadhikar AI suggest next steps if a claim is rejected?",
+    "input": "",
+    "output": "Yes. The AI explains the reason for rejection and guides the user on corrective actions, such as submitting missing documents or filing an appeal."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate GeoAtlas visualizations for community rights?",
+    "input": "",
+    "output": "Yes. It produces maps highlighting communal grazing areas, water bodies, and forest produce collection zones."
+  },
+  {
+    "instruction": "Can Vanadhikar AI handle multilingual OCR documents?",
+    "input": "",
+    "output": "Yes. It can read Hindi, English, and regional languages commonly used in tribal areas for FRA documentation."
+  },
+  {
+    "instruction": "Can Vanadhikar AI extract metadata from FRA PDFs?",
+    "input": "",
+    "output": "Yes. It identifies date, claimant name, claim type, village, and other key fields to populate the digital database."
+  },
+  {
+    "instruction": "Can Vanadhikar AI detect errors in filled forms?",
+    "input": "",
+    "output": "Yes. It validates entries like name spellings, caste ID, village, and land area, highlighting inconsistencies."
+  },
+  {
+    "instruction": "Can Vanadhikar AI track document submission deadlines?",
+    "input": "",
+    "output": "Yes. It notifies users and NGOs about pending submissions and deadlines for FRA claim processing."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate reports for Gram Sabha meetings?",
+    "input": "",
+    "output": "Yes. Extracted document data and claim summaries can be compiled into meeting-ready reports for Gram Sabha review."
+  },
+  {
+    "instruction": "Does Vanadhikar AI suggest suitable documents if originals are lost?",
+    "input": "",
+    "output": "Yes. The AI suggests alternative proofs like affidavits, community elder statements, or secondary government records."
+  },
+  {
+    "instruction": "Can Vanadhikar AI integrate with official FRA portals?",
+    "input": "",
+    "output": "Yes. Digitized claim data can be synced with government FRA portals to accelerate verification and title issuance."
+  },
+  {
+    "instruction": "Can Vanadhikar AI summarize long FRA documents?",
+    "input": "",
+    "output": "Yes. It provides concise summaries of scanned resolutions, letters, and notifications for quick review."
+  },
+  {
+    "instruction": "Does Vanadhikar AI help in dispute resolution?",
+    "input": "",
+    "output": "Yes. By mapping claims via GeoAtlas and verifying documents, it identifies overlaps and provides suggestions to resolve conflicts."
+  },
+  {
+    "instruction": "Can Vanadhikar AI auto-fill multiple claim forms from one OCR scan?",
+    "input": "",
+    "output": "Yes. If a family has multiple claims, the AI extracts data once and populates all relevant forms to reduce duplication."
+  },
+  {
+    "instruction": "Can Vanadhikar AI suggest which NGO to contact for help?",
+    "input": "",
+    "output": "Yes. Based on location, claim type, and document status, it recommends nearby NGOs experienced in FRA assistance."
+  },
+  {
+    "instruction": "Can Vanadhikar AI digitize old eviction notices?",
+    "input": "",
+    "output": "Yes. OCR can read scanned eviction notices to provide historical proof of residence or displacement for claim support."
+  },
+  {
+    "instruction": "Can Vanadhikar AI create a digital library of FRA documents?",
+    "input": "",
+    "output": "Yes. All scanned and processed documents can be stored in a searchable digital library for future reference and auditing."
+  },
+  {
+    "instruction": "Does Vanadhikar AI check compliance with IFR, CR, and CFR rules?",
+    "input": "",
+    "output": "Yes. It validates claims and documents against individual, community, and community resource rights to ensure they meet FRA legal requirements."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate visual dashboards for claim progress?",
+    "input": "",
+    "output": "Yes. It shows claim status, document completeness, NGO support, and mapping visualizations in an interactive dashboard."
+  }
+,{
+    "instruction": "What is the difference between IFR, CFR, and CR under FRA?",
+    "input": "",
+    "output": "IFR (Individual Forest Rights) grants forest land and resources to individual families for habitation and cultivation. CFR (Community Forest Rights) gives collective rights to forest-dwelling communities over land, grazing, and forest produce. CR (Community Rights) often overlaps with CFR, covering communal resources like water bodies, grazing areas, and minor forest produce."
+  },
+  {
+    "instruction": "How is an IFR claim filed?",
+    "input": "",
+    "output": "IFR claims are filed by individual families through Gram Sabha. The claimant submits proof of residence, caste certificate, cultivation records, and other supporting documents. The Gram Sabha verifies and forwards the resolution to SDLC and DLC for approval."
+  },
+  {
+    "instruction": "How is a CFR claim filed?",
+    "input": "",
+    "output": "CFR claims are filed by forest-dwelling communities collectively. A community representative submits evidence like maps of traditional land use, grazing areas, minor forest produce collection zones, and Gram Sabha approval. The claim goes through SDLC/DLC verification before title issuance."
+  },
+  {
+    "instruction": "How is a CR claim filed?",
+    "input": "",
+    "output": "CR claims, including rights over water bodies, sacred groves, and community resources, are submitted via Gram Sabha. The community provides documentation or testimonies proving long-term use. SDLC/DLC review and approve the claim."
+  },
+  {
+    "instruction": "Can Vanadhikar AI explain IFR, CFR, and CR differences to tribals?",
+    "input": "",
+    "output": "Yes. The AI explains rights in simple language, giving examples like individual cultivation plots (IFR), village grazing lands (CFR), and community ponds or sacred forests (CR)."
+  },
+  {
+    "instruction": "What documents are needed for IFR claims?",
+    "input": "",
+    "output": "Proof of identity (Aadhaar), caste certificate (for ST), residence proof, cultivation evidence, and Gram Sabha recommendation are required."
+  },
+  {
+    "instruction": "What documents are needed for CFR claims?",
+    "input": "",
+    "output": "Community maps, lists of members, evidence of collective use, forest produce collection records, and Gram Sabha resolutions are needed."
+  },
+  {
+    "instruction": "What documents are needed for CR claims?",
+    "input": "",
+    "output": "Proof of community usage like testimonies, forest maps, prior rights records, and Gram Sabha approval for water, grazing, or sacred sites."
+  },
+  {
+    "instruction": "What is DSSS logic in FRA context?",
+    "input": "",
+    "output": "DSSS (Decision Support System for Submissions) logic helps Vanadhikar AI identify missing documents, inconsistencies, and eligibility for IFR, CFR, or CR claims, ensuring faster verification."
+  },
+  {
+    "instruction": "How does DSSS logic help tribals?",
+    "input": "",
+    "output": "It checks uploaded documents automatically, flags missing proofs, verifies caste and residence information, and guides users to complete claims correctly."
+  },
+  {
+    "instruction": "What is the role of Gram Sabha in IFR claims?",
+    "input": "",
+    "output": "Gram Sabha verifies individual claims, checks supporting documents, ensures eligibility, and approves or rejects the claim before sending it to SDLC."
+  },
+  {
+    "instruction": "What is the role of Gram Sabha in CFR claims?",
+    "input": "",
+    "output": "Gram Sabha reviews community claims, approves maps and community usage documents, and forwards the resolution to SDLC/DLC for further verification."
+  },
+  {
+    "instruction": "What is the role of Gram Sabha in CR claims?",
+    "input": "",
+    "output": "Gram Sabha confirms community usage of resources like water bodies, sacred groves, and grazing lands and approves submission for SDLC/DLC review."
+  },
+  {
+    "instruction": "Can Vanadhikar AI help map IFR plots using GeoAtlas?",
+    "input": "",
+    "output": "Yes. It can digitize individual plots, mark boundaries, and track ownership/residence status to support IFR claims."
+  },
+  {
+    "instruction": "Can Vanadhikar AI help map CFR areas?",
+    "input": "",
+    "output": "Yes. It creates maps of community grazing lands, forest produce zones, and shared resources using GeoAtlas for CFR verification."
+  },
+  {
+    "instruction": "Can Vanadhikar AI help map CR areas?",
+    "input": "",
+    "output": "Yes. The AI maps communal resources like ponds, sacred groves, and fishing zones for community rights claims."
+  },
+  {
+    "instruction": "What is the CSS scheme for tribals related to FRA?",
+    "input": "",
+    "output": "CSS (Centrally Sponsored Schemes) include programs for tribal welfare, forest rights awareness, rehabilitation, livelihood support, and minor forest produce development linked to FRA claims."
+  },
+  {
+    "instruction": "How does CSS support IFR claimants?",
+    "input": "",
+    "output": "CSS schemes provide financial aid, agricultural support, and livelihood programs to individuals granted IFR rights."
+  },
+  {
+    "instruction": "How does CSS support CFR claimants?",
+    "input": "",
+    "output": "CSS schemes support community resource management, collective income generation, and infrastructure for grazing and forest produce collection areas."
+  },
+  {
+    "instruction": "How does CSS support CR claimants?",
+    "input": "",
+    "output": "CSS programs help maintain water bodies, sacred groves, and communal lands, providing financial and technical support."
+  },
+  {
+    "instruction": "How can Vanadhikar AI guide form filling for IFR claims?",
+    "input": "",
+    "output": "The AI provides step-by-step guidance, pre-fills details from OCR scanned documents, checks mandatory fields, and ensures all supporting proofs are attached."
+  },
+  {
+    "instruction": "How can Vanadhikar AI guide form filling for CFR claims?",
+    "input": "",
+    "output": "It guides communities to provide member lists, maps, forest usage data, and ensures Gram Sabha resolutions are properly attached."
+  },
+  {
+    "instruction": "How can Vanadhikar AI guide form filling for CR claims?",
+    "input": "",
+    "output": "It assists in detailing community resource usage, attaching testimonies, historical records, and verifying Gram Sabha approvals."
+  },
+  {
+    "instruction": "Can Vanadhikar AI validate FIR, CFR, CR claim data automatically?",
+    "input": "",
+    "output": "Yes. Using DSSS logic, it checks eligibility, compares OCR-extracted documents, and validates whether the claim matches FRA rules."
+  },
+  {
+    "instruction": "Can Vanadhikar AI explain eligibility for IFR, CFR, CR?",
+    "input": "",
+    "output": "Yes. IFR: Individual families with pre-2005 residence or cultivation. CFR: Communities with collective land and resource use. CR: Communities using ponds, grazing, or sacred forests."
+  },
+  {
+    "instruction": "Can Vanadhikar AI detect overlaps between IFR, CFR, and CR claims?",
+    "input": "",
+    "output": "Yes. It uses GeoAtlas mapping to identify overlapping plots or resource areas and suggests resolutions to Gram Sabha or SDLC."
+  },
+  {
+    "instruction": "Can Vanadhikar AI track claim approvals across IFR, CFR, CR?",
+    "input": "",
+    "output": "Yes. It maintains digital records showing which claims are pending, approved, or rejected with reasons and document verification status."
+  },
+  {
+    "instruction": "Can Vanadhikar AI assist NGOs in monitoring IFR claims?",
+    "input": "",
+    "output": "Yes. NGOs can view digital claim data, missing documents, and track the approval process for each individual claimant."
+  },
+  {
+    "instruction": "Can Vanadhikar AI assist NGOs in monitoring CFR claims?",
+    "input": "",
+    "output": "Yes. NGOs can access community claim maps, member lists, and resource usage verification status."
+  },
+  {
+    "instruction": "Can Vanadhikar AI assist NGOs in monitoring CR claims?",
+    "input": "",
+    "output": "Yes. It provides visualizations of communal resource areas, claim status, and missing documentation for effective follow-up."
+  },
+  {
+    "instruction": "How does Vanadhikar AI link DSSS logic to GeoAtlas?",
+    "input": "",
+    "output": "DSSS analyzes uploaded documents and claim metadata, while GeoAtlas visualizes boundaries and overlaps, helping users and officials verify claims efficiently."
+  },
+  {
+    "instruction": "Can Vanadhikar AI guide tribals in accessing CSS schemes?",
+    "input": "",
+    "output": "Yes. The AI lists relevant schemes for IFR, CFR, and CR rights, eligibility criteria, and the process to apply or avail benefits."
+  },
+  {
+    "instruction": "How can Vanadhikar AI help in conflict resolution between IFR and CFR claims?",
+    "input": "",
+    "output": "It identifies overlapping land or resource claims using maps, verifies documents, and suggests solutions to Gram Sabha or SDLC for equitable distribution."
+  },
+  {
+    "instruction": "Can Vanadhikar AI summarize IFR, CFR, CR claim requirements?",
+    "input": "",
+    "output": "Yes. It provides a concise checklist for documents, forms, Gram Sabha resolutions, and DSSS validation for each claim type."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate dashboards for IFR, CFR, CR claims?",
+    "input": "",
+    "output": "Yes. Dashboards show claim type, document status, approvals, NGO support, GeoAtlas maps, and CSS scheme allocations."
+  },
+  {
+    "instruction": "Can Vanadhikar AI provide suggestions if documents are missing for IFR?",
+    "input": "",
+    "output": "Yes. It recommends affidavits, alternative residence proofs, or Gram Sabha attestations to complete the claim."
+  },
+  {
+    "instruction": "Can Vanadhikar AI provide suggestions if documents are missing for CFR?",
+    "input": "",
+    "output": "Yes. It guides communities to submit maps, member lists, or evidence of collective forest use."
+  },
+  {
+    "instruction": "Can Vanadhikar AI provide suggestions if documents are missing for CR?",
+    "input": "",
+    "output": "Yes. It suggests testimonies, historical records, or secondary proofs for communal resources."
+  }
+,{
+    "instruction": "How can Vanadhikar AI help tribals with forest rights?",
+    "input": "",
+    "output": "Vanadhikar AI guides tribals on IFR, CFR, and CR claims, document submission, form filling, and provides visual mapping of their land and resources."
+  },
+  {
+    "instruction": "What is IFR?",
+    "input": "",
+    "output": "IFR (Individual Forest Rights) grants land and forest resource rights to individual families for habitation and cultivation under FRA."
+  },
+  {
+    "instruction": "What is CFR?",
+    "input": "",
+    "output": "CFR (Community Forest Rights) provides collective rights to forest-dwelling communities over forests, grazing lands, and minor forest produce."
+  },
+  {
+    "instruction": "What is CR?",
+    "input": "",
+    "output": "CR (Community Rights) refers to community entitlements on resources like water bodies, grazing areas, sacred groves, and other communal forest resources."
+  },
+  {
+    "instruction": "How to file IFR claims?",
+    "input": "",
+    "output": "Submit proof of residence, caste certificate, cultivation records, and Gram Sabha approval through Vanadhikar AI guidance."
+  },
+  {
+    "instruction": "How to file CFR claims?",
+    "input": "",
+    "output": "Submit community maps, member lists, forest use records, and Gram Sabha resolutions. Vanadhikar AI ensures documents are complete."
+  },
+  {
+    "instruction": "How to file CR claims?",
+    "input": "",
+    "output": "Provide evidence of community resource usage, testimonies, and Gram Sabha approvals. Vanadhikar AI checks completeness before submission."
+  },
+  {
+    "instruction": "What documents are needed for IFR?",
+    "input": "",
+    "output": "Identity proof, caste certificate, residence proof, cultivation evidence, and Gram Sabha recommendation."
+  },
+  {
+    "instruction": "What documents are needed for CFR?",
+    "input": "",
+    "output": "Community maps, lists of members, evidence of traditional forest use, and Gram Sabha resolutions."
+  },
+  {
+    "instruction": "What documents are needed for CR?",
+    "input": "",
+    "output": "Proof of community resource usage, testimonies, historical records, and Gram Sabha approval."
+  },
+  {
+    "instruction": "Can Vanadhikar AI digitize FRA documents?",
+    "input": "",
+    "output": "Yes, using OCR, it converts scanned PDFs, images, and handwritten forms into a digital format for easy processing."
+  },
+  {
+    "instruction": "Can Vanadhikar AI process handwritten forms?",
+    "input": "",
+    "output": "Yes, it is optimized to read handwritten documents and extract text accurately using OCR."
+  },
+  {
+    "instruction": "Can Vanadhikar AI fill forms automatically?",
+    "input": "",
+    "output": "Yes, it extracts data from scanned documents and pre-fills IFR, CFR, and CR forms for faster submission."
+  },
+  {
+    "instruction": "What is DSSS logic?",
+    "input": "",
+    "output": "Decision Support System for Submissions helps identify missing documents, errors, and eligibility for claims, guiding users to complete forms accurately."
+  },
+  {
+    "instruction": "How does DSSS help claimants?",
+    "input": "",
+    "output": "It checks uploaded documents, validates eligibility, highlights missing proofs, and guides users to complete claims correctly."
+  },
+  {
+    "instruction": "Can Vanadhikar AI verify documents?",
+    "input": "",
+    "output": "Yes, it validates OCR-extracted documents against FRA requirements and flags missing or inconsistent information."
+  },
+  {
+    "instruction": "How does Vanadhikar AI coordinate with NGOs?",
+    "input": "",
+    "output": "It shares verified claim information, feedback forms, and status updates with local NGOs for follow-up and assistance."
+  },
+  {
+    "instruction": "Can Vanadhikar AI track claim status?",
+    "input": "",
+    "output": "Yes, it maintains digital records of each claim, showing pending, approved, or rejected status with reasons and document verification."
+  },
+  {
+    "instruction": "Can Vanadhikar AI map forest land?",
+    "input": "",
+    "output": "Yes, it integrates with GeoAtlas to plot individual and community land, grazing zones, and resource areas for IFR, CFR, and CR claims."
+  },
+  {
+    "instruction": "How does GeoAtlas help tribals?",
+    "input": "",
+    "output": "It provides visual representation of claims, land boundaries, resource areas, and helps resolve overlaps or disputes."
+  },
+  {
+    "instruction": "How does Vanadhikar AI resolve claim overlaps?",
+    "input": "",
+    "output": "It uses mapping and DSSS logic to detect overlapping IFR, CFR, or CR claims and suggests solutions to Gram Sabha or SDLC."
+  },
+  {
+    "instruction": "Does Vanadhikar AI support multiple languages?",
+    "input": "",
+    "output": "Yes, it supports local languages for form filling, document submission, and interacting with NGOs."
+  },
+  {
+    "instruction": "Can Vanadhikar AI summarize long documents?",
+    "input": "",
+    "output": "Yes, it provides concise summaries of scanned resolutions, notifications, and letters for quick review."
+  },
+  {
+    "instruction": "Can Vanadhikar AI suggest missing documents?",
+    "input": "",
+    "output": "Yes, it recommends alternative proofs like affidavits, secondary certificates, or community attestations."
+  },
+  {
+    "instruction": "Can Vanadhikar AI handle feedback forms?",
+    "input": "",
+    "output": "Yes, users can fill feedback forms, which are shared with NGOs to improve support for tribal claimants."
+  },
+  {
+    "instruction": "Can Vanadhikar AI auto-fill feedback forms?",
+    "input": "",
+    "output": "Yes, data extracted from OCR scans can pre-populate feedback forms to reduce manual entry."
+  },
+  {
+    "instruction": "Can Vanadhikar AI validate IFR, CFR, CR eligibility?",
+    "input": "",
+    "output": "Yes, DSSS logic checks residence, cultivation, community usage, and other criteria to validate claims."
+  },
+  {
+    "instruction": "Can Vanadhikar AI help tribals access CSS schemes?",
+    "input": "",
+    "output": "Yes, it lists relevant Centrally Sponsored Schemes for IFR, CFR, and CR claimants, including eligibility and benefits."
+  },
+  {
+    "instruction": "How does Vanadhikar AI help in dispute resolution?",
+    "input": "",
+    "output": "It identifies overlapping claims, verifies documents, and provides suggestions to Gram Sabha or SDLC for resolution."
+  },
+  {
+    "instruction": "Can Vanadhikar AI track document submission deadlines?",
+    "input": "",
+    "output": "Yes, it notifies users and NGOs about pending submissions and deadlines for claim processing."
+  },
+  {
+    "instruction": "How does Vanadhikar AI guide communities in CFR claims?",
+    "input": "",
+    "output": "It provides step-by-step instructions, maps, member lists, and ensures all supporting proofs are submitted correctly."
+  },
+  {
+    "instruction": "How does Vanadhikar AI guide individuals in IFR claims?",
+    "input": "",
+    "output": "It helps fill forms, attach required documents, verify eligibility, and submit claims to Gram Sabha for approval."
+  },
+  {
+    "instruction": "How does Vanadhikar AI guide communities in CR claims?",
+    "input": "",
+    "output": "It assists in detailing communal resource usage, attaching testimonies, and submitting proper approvals."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate dashboards for claims?",
+    "input": "",
+    "output": "Yes, it visualizes claim type, document status, approvals, NGO support, and mapping in a user-friendly dashboard."
+  },
+  {
+    "instruction": "Can Vanadhikar AI suggest next steps if a claim is rejected?",
+    "input": "",
+    "output": "Yes, it explains rejection reasons and guides users to submit missing documents or appeal."
+  },
+  {
+    "instruction": "Can Vanadhikar AI track multiple family member claims?",
+    "input": "",
+    "output": "Yes, it allows bulk entry and document digitization for all family members, ensuring individual tracking."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate maps for community grazing areas?",
+    "input": "",
+    "output": "Yes, GeoAtlas integration maps communal grazing lands and seasonal usage zones for CFR and CR claims."
+  },
+  {
+    "instruction": "Can Vanadhikar AI extract metadata from PDFs?",
+    "input": "",
+    "output": "Yes, it identifies claimant name, village, claim type, and other key fields to populate the digital database."
+  },
+  {
+    "instruction": "Can Vanadhikar AI auto-detect errors in forms?",
+    "input": "",
+    "output": "Yes, it validates entries, highlights inconsistencies, and ensures compliance with FRA rules."
+  },
+  {
+    "instruction": "Can Vanadhikar AI support mobile uploads?",
+    "input": "",
+    "output": "Yes, users can upload images or PDFs via mobile, and the AI processes them instantly for OCR and verification."
+  },
+  {
+    "instruction": "Can Vanadhikar AI coordinate between multiple NGOs?",
+    "input": "",
+    "output": "Yes, it shares verified claim data with all relevant NGOs for coordinated follow-up and support."
+  },
+  {
+    "instruction": "Can Vanadhikar AI help with rehabilitation claims?",
+    "input": "",
+    "output": "Yes, it guides users through submitting eviction or rehabilitation claims under FRA, providing proof submission guidance."
+  },
+  {
+    "instruction": "Can Vanadhikar AI suggest alternative proofs if originals are lost?",
+    "input": "",
+    "output": "Yes, it recommends affidavits, secondary certificates, or community attestations to complete claims."
+  },
+  {
+    "instruction": "Can Vanadhikar AI summarize CFR usage rights?",
+    "input": "",
+    "output": "Yes, it lists communal land rights, grazing zones, forest produce collection areas, and seasonal usage for communities."
+  },
+  {
+    "instruction": "Can Vanadhikar AI summarize CR rights?",
+    "input": "",
+    "output": "Yes, it details water body rights, sacred grove management, and other communal resource entitlements."
+  },
+  {
+    "instruction": "Can Vanadhikar AI help tribals file IFR, CFR, CR claims simultaneously?",
+    "input": "",
+    "output": "Yes, it guides users to submit multiple claim types correctly, checking all required documents and approvals."
+  },
+  {
+    "instruction": "Can Vanadhikar AI notify claim updates?",
+    "input": "",
+    "output": "Yes, it provides real-time notifications on claim status changes, approvals, rejections, and document requirements."
+  },
+  {
+    "instruction": "Can Vanadhikar AI explain FRA legal sections?",
+    "input": "",
+    "output": "Yes, it provides simplified explanations of FRA sections, rules for claim filing, rights, and responsibilities for tribals."
+  },
+  {
+    "instruction": "Can Vanadhikar AI provide FAQs for IFR, CFR, CR claims?",
+    "input": "",
+    "output": "Yes, it offers common questions and answers about eligibility, documents, timelines, and dispute resolution."
+  },
+  {
+    "instruction": "Can Vanadhikar AI generate reports for Gram Sabha meetings?",
+    "input": "",
+    "output": "Yes, it compiles claim summaries, document status, and mapping for review during Gram Sabha meetings."
+  }
+]
+
+
