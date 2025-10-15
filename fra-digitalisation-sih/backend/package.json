@@ -1,0 +1,41 @@
+{
+  "name": "fra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index",
+    "seed:gs-berasia": "node scripts/seed_berasia_gs.js",
+    "seed:gs-phanda": "node scripts/seed_phanda_gs.js",
+    "update-admin-locations": "node scripts/update_admin_locations.js",
+    "test-claim-visibility": "node scripts/test_claim_visibility.js",
+    "test-all-gs-credentials": "node scripts/test_all_gs_credentials.js",
+    "test-gs-profile": "node scripts/test_gs_profile.js",
+    "test-claim-restrictions": "node scripts/test_claim_restrictions.js",
+    "test-hierarchical-visibility": "node scripts/test_hierarchical_visibility.js",
+    "create-test-admins": "node scripts/create_test_admins.js",
+    "test-gs-login-api": "node scripts/test_gs_login_api.js",
+    "seed-real-gs-officers": "node scripts/seed_real_gs_officers.js",
+    "seed-all-gs-officers": "node scripts/seed_all_gs_officers.js",
+    "test-all-gs-logins": "node scripts/test_all_gs_logins.js",
+    "test-gs-claims-api": "node scripts/test_gs_claims_api.js",
+    "create-test-claim-mendori": "node scripts/create_test_claim_for_mendori.js",
+    "test-notification-system": "node scripts/test_notification_system.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.1",
+    "multer": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10"
+  }
+}

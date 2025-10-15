@@ -1,0 +1,15 @@
+//multer for file upload
+
+const multer = require('multer');
+
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, "uploads/"); // backend/assets folder
+  },
+  filename: (req, file, cb) => {
+    cb(null, Date.now() + '-' + file.originalname);
+  }
+});
+
+const upload = multer({ storage });
+module.exports = upload;

@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* FRA custom colors */
+    --color-heading: #9ac90b;      /* light green */
+    --color-numbering: #f58369;    /* light orange */
+    --color-bg-heading: #046353;   /* dark green for bg headings */
+    --color-font: #000000ff;       /* font color */
+    --color-bg-1: #046353;         /* dark green background */
+    --color-bg-2: #fffbf5;         /* light brown background */
+
+    /* shadcn default tokens (light mode) */
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    /* shadcn default tokens (dark mode) */
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 48%;
+  }
+}
+
+.dark {
+  /* FRA custom colors for dark mode */
+  --color-heading: #b8e600;      /* brighter green */
+  --color-numbering: #ff8a7a;    /* brighter orange */
+  --color-bg-heading: #067a5a;   /* lighter dark green */
+  --color-font: #ffffff;         /* white font */
+  --color-bg-1: #067a5a;         /* lighter dark green */
+  --color-bg-2: #1a1a1a;         /* dark background */
+
+  /* shadcn default tokens (dark mode) */
+  --background: 222.2 84% 4.9%;
+  --foreground: 210 40% 98%;
+  --card: 222.2 84% 4.9%;
+  --card-foreground: 210 40% 98%;
+  --popover: 222.2 84% 4.9%;
+  --popover-foreground: 210 40% 98%;
+  --primary: 217.2 91.2% 59.8%;
+  --primary-foreground: 222.2 47.4% 11.2%;
+  --secondary: 217.2 32.6% 17.5%;
+  --secondary-foreground: 210 40% 98%;
+  --muted: 217.2 32.6% 17.5%;
+  --muted-foreground: 215 20.2% 65.1%;
+  --accent: 217.2 32.6% 17.5%;
+  --accent-foreground: 210 40% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 217.2 32.6% 17.5%;
+  --input: 217.2 32.6% 17.5%;
+  --ring: 224.3 76.3% 94.1%;
+  --radius: 0.5rem;
+}
+
+@layer utilities {
+  .text-fra-font {
+    color: var(--color-font);
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-bg-2 text-fra-font min-h-screen;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-heading;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-bg-1 text-fra-font px-4 py-2 rounded-lg hover:opacity-90 transition-opacity;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-800 px-4 py-2 rounded-lg hover:bg-gray-300 transition-colors;
+  }
+
+  .btn-outline {
+    @apply border border-bg-1 text-bg-1 px-4 py-2 rounded-lg hover:bg-bg-1 hover:text-white transition-colors;
+  }
+
+  .card {
+    @apply bg-white rounded-lg shadow-md p-6;
+  }
+
+  .section-heading {
+    @apply bg-bg-heading text-fra-font py-3 px-4 rounded-t-lg;
+  }
+
+  .step-number {
+    @apply text-numbering font-bold;
+  }
+}
+
+/* Leaflet map container */
+.leaflet-container {
+  @apply w-full h-[400px] rounded-lg;
+}

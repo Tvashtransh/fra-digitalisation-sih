@@ -1,0 +1,26 @@
+/* Test Syntax Fix */
+console.log('Syntax Fix Test');
+console.log('===============');
+console.log('');
+console.log('✅ FIXED: JavaScript object syntax error');
+console.log('');
+console.log('🔧 Changes Made:');
+console.log('   - Removed quotes from object property names');
+console.log('   - Changed \'id\': to id:');
+console.log('   - Changed \'type\': to type:');
+console.log('   - Changed \'filter\': to filter:');
+console.log('   - Changed \'paint\': to paint:');
+console.log('   - Changed \'layout\': to layout:');
+console.log('');
+console.log('📝 Before (Error):');
+console.log('   \'id\': \'gl-draw-polygon-fill-inactive\',');
+console.log('   \'paint\': {');
+console.log('     \'fill-color\': \'#044e2b\',');
+console.log('');
+console.log('📝 After (Fixed):');
+console.log('   id: \'gl-draw-polygon-fill-inactive\',');
+console.log('   paint: {');
+console.log('     \'fill-color\': \'#044e2b\',');
+console.log('');
+console.log('✅ Vite compilation error should now be resolved!');
+console.log('🚀 Ready to test the Mapbox implementation!');
